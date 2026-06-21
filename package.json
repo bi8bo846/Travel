@@ -1,6 +1,0 @@
-{
-  "name": "travel-journal-app",
-  "version": "1.0.0",
-  "private": true,
-  "description": "旅行手帳 App — static front-end with a Vercel serverless weather proxy"
-}
