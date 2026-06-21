@@ -1,0 +1,17 @@
+# Dependencies
+node_modules/
+
+# Vercel
+.vercel/
+
+# Environment variables (none required by this project today, but keep
+# this ignored in case any are added later — e.g. a paid weather API key)
+.env
+.env*.local
+
+# OS / editor noise
+.DS_Store
+Thumbs.db
+*.log
+.vscode/
+.idea/
